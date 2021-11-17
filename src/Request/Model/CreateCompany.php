@@ -49,4 +49,8 @@ class CreateCompany extends Model
      * @var CreateUser
      */
     public $user;
+    /**
+     * @var bool 
+     */
+    public $configured = true;
 }

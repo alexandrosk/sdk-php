@@ -1,3 +1,6 @@
+0.20.0
+Added `configured` property for `CreateCompany` request model with default value `true`
+
 0.19.0
 Added support for DELETE /accounts/:account_id/contacts/:contact_id
 Added support for PUT /accounts/:account_id/contacts/:contact_id
