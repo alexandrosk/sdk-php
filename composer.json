@@ -1,5 +1,5 @@
 {
-    "name": "easir/sdk-php8",
+    "name": "easir-php8/sdk",
     "version": "0.14.0",
     "type": "library",
     "autoload": {
